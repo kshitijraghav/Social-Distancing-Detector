@@ -1,2 +1,4 @@
-# Social-Distancing-Detector
-The application will detect if people in the frame are following social distancing among them or not.
+<div align="center">
+  <h1>Social Distancing</h1>
+</div>
+
