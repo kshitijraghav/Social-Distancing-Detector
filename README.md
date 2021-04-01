@@ -16,7 +16,12 @@ This app uses scaled-YOLOv4 (yolov4-csp), the fastest and most accurate object d
   <h2>(Custom Input)</h2>
   <p><b>{Make sure these changes are made}</b></p>
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Custom.PNG">
+  <br>
+  <br>
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Test_yolo.PNG">
+  <br><br>
+  <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Covid_Test.PNG">
+  <br><br>
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Test1.PNG">
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Test2.PNG">
   <h2> Made in Google Colab </h2>
