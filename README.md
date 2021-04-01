@@ -12,6 +12,18 @@ This app uses scaled-YOLOv4 (yolov4-csp), the fastest and most accurate object d
   </p>
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Coco-Dataset-image.PNG">
   <hr/>
+  <h2> Made in Google Colab </h2>
+  <p>
+    <b>If you don't have access to GPU</b>, you can run the project on Google Colab <br>
+    Make sure you have turned on the hardware accelerator as <b>GPU</b>
+  </p>
+  <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/GPU.PNG">
+  </hr>
+  <h2>To run the project in colab</h2>
+  <p>
+  Just download the colab file & upload it in your colab & run all the commands
+  </p>
+  <hr/>
   <h2>Implementation</h2>
   <h2>(Custom Input)</h2>
   <p><b>{Make sure these changes are made}</b></p>
