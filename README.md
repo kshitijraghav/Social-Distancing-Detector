@@ -42,6 +42,7 @@ This app uses scaled-YOLOv4 (yolov4-csp), the fastest and most accurate object d
   <br><br>
   <img src = "https://github.com/kshitijraghav/Social-Distancing-Detector/blob/main/Theme/Test2.PNG">
   <hr/>
+  <h1>THANKYOU!</h1>
   </div>
   
 
